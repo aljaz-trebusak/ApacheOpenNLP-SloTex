@@ -1,0 +1,995 @@
+﻿.at
+.ba
+.cz
+.de
+.doc
+.docx
+.eu
+.exe
+.fr
+.gif
+.hr
+.html
+.hu
+.it
+.jpg
+.pdf
+.rtf
+.si
+.xls
+.xml
+.zip
+A. Chr. N.
+a. Chr. n.
+A. D.
+Abs.
+abs.
+Adm.
+adm.
+Adv.
+adv.
+Agl.
+agl.
+Agr.
+agr.
+Akad.
+akad.
+Alp.
+alp.
+Am.
+am.
+Amer.
+amer.
+Ang.
+ang.
+Angl.
+angl.
+Angl.-slov.
+angl.-slov.
+Apr.
+apr.
+Arab.
+arab.
+Arh.
+arh.
+Asist.
+asist.
+Astr.
+astr.
+Avg.
+avg.
+B. L.
+b. l.
+B. P.
+b. p.
+Belg.
+belg.
+Bibl.
+bibl.
+Biokem.
+biokem.
+Biol.
+biol.
+Bl.
+bl.
+Bolg.
+bolg.
+Bot.
+bot.
+Brezos.
+brezos.
+Brit.
+brit.
+Broš.
+broš.
+C.
+c.
+C.-kr.
+c.-kr.
+Ca.
+ca.
+Cca
+cca
+Cerkv.slov.
+cerkv.slov.
+Cf.
+cf.
+Ch.
+Cig.
+Cit.
+cit.
+Civ.
+civ.
+Co.
+Corr.
+corr.
+Csl.
+csl.
+D. D.
+d. d.
+D. N. O.
+d. n. o.
+D. O. O.
+d. o. o.
+D. V. Z.
+d. v. z.
+D.d.
+d.d.
+D.o.o.
+d.o.o.
+Ddr.
+ddr.
+Dec.
+dec.
+Del.
+del.
+Dim.
+dim.
+Dipl.
+dipl.
+Dipl. Ekon.
+dipl. ekon.
+Dipl. Ing.
+dipl. ing.
+Dipl. Inž.
+dipl. inž.
+Dipl. Oec.
+dipl. oec.
+Diplomac.
+diplomac.
+Doc.
+doc.
+Dol.
+dol.
+Dol. Nov.
+Dol. Č.
+dol. č.
+Dov.
+dov.
+Dov. Gl.
+dov. gl.
+Dr.
+dr.
+Dr. Dent. Med.
+dr. dent. med.
+Dr. H. C.
+dr. h. c.
+Dr. Med.
+dr. med.
+Dr. Sc.
+dr. sc.
+Dr. Sci.
+dr. sci.
+Dr. Stom.
+dr. stom.
+Dr. Vet. Med.
+dr. vet. med.
+Dram.
+dram.
+Drž.
+drž.
+Dv.
+dv.
+Dv. Dvojina
+dv. dvojina
+Dvojč.
+dvojč.
+Dvostan.
+dvostan.
+Ed.
+ed.
+Ef.
+ef.
+Egipt.
+egipt.
+Egipč.
+egipč.
+Ekol.
+ekol.
+Ekon.
+ekon.
+Ekspr.
+ekspr.
+El.
+el.
+Elektr.
+elektr.
+Elipt.
+elipt.
+Enostan.
+enostan.
+Erot.
+erot.
+Eston.
+eston.
+Etc.
+etc.
+Etim.
+etim.
+Etn.
+etn.
+Ev.
+ev.
+Ev. Št.
+ev. št.
+Evfem.
+evfem.
+F.
+f.
+Fak.
+fak.
+Faks.
+faks.
+Fam.
+fam.
+Farm.
+farm.
+Fasc.
+fasc.
+Fax.
+fax.
+Fco.
+fco.
+Feb.
+feb.
+Febr.
+febr.
+Fig.
+fig.
+Film.
+film.
+Filol.
+filol.
+Filoz.
+filoz.
+Fiz.
+fiz.
+Fiziol.
+fiziol.
+Fiziot.
+fiziot.
+Fol.
+fol.
+Fot.
+fot.
+Fr.
+fr.
+Fra.
+fra.
+Franc.
+franc.
+Frc.
+frc.
+G.
+g.
+Ga.
+ga.
+Gdč.
+gdč.
+Ge.
+ge.
+Gen.
+gen.
+Gen.maj.
+gen.maj.
+Gen.polk.
+gen.polk.
+Gen.ppolk.
+gen.ppolk.
+Geod.
+geod.
+Geol.
+geol.
+Germ.
+germ.
+Gimn.
+gimn.
+Gl.
+gl.
+Glag.
+glag.
+Glasb.
+glasb.
+Gled.
+gled.
+Gluž.
+gluž.
+Go.
+go.
+Gor.
+gor.
+Gr.
+gr.
+Grad.
+grad.
+Gradb.
+gradb.
+H. C.
+h. c.
+H. Št.
+h. št.
+Harm.
+harm.
+Hebr.
+hebr.
+Hiperb.
+hiperb.
+Hon.
+hon.
+Hr.
+hr.
+Hrv.
+hrv.
+I. E.
+i. e.
+Ibid.
+ibid.
+Ide.
+ide.
+Idr.
+idr.
+Im.
+im.
+In dr.
+in dr.
+Ind.
+ind.
+Ing.
+ing.
+Inv. Št.
+inv. št.
+Inž.
+inž.
+Ipd.
+ipd.
+Iron.
+iron.
+It.
+it.
+Itd.
+itd.
+Itn.
+itn.
+Izd.
+izd.
+Izg.
+izg.
+Izr. Prof.
+izr. prof.
+Izred.
+izred.
+Izv.
+izv.
+J.
+J. K.
+Jan.
+jan.
+Jap.
+jap.
+Jez.
+jez.
+Jezikosl.
+jezikosl.
+Jr.
+jr.
+Jsl.
+jsl.
+Jug.
+jug.
+Jul.
+jul.
+Jun.
+jun.
+Juž.
+juž.
+Jv.
+jv.
+Jz.
+jz.
+K. G.
+k. g.
+K. O.
+k. o.
+Kal.
+kal.
+Kat.
+kat.
+Kelt.
+kelt.
+Kem.
+kem.
+Kit.
+kit.
+Knj.
+knj.
+Knjiž.
+knjiž.
+Kor.
+kor.
+Kov.
+kov.
+Krat.
+krat.
+Kub.
+kub.
+Kult.
+kult.
+Kv.
+kv.
+L.
+l.
+L.r.
+l.r.
+Lat.
+lat.
+Latv.
+latv.
+Let.
+let.
+Lik.
+lik.
+Lit.
+lit.
+Lit. Zg.
+lit. zg.
+Lit.zg.
+lit.zg.
+Litov.
+litov.
+Lj.
+M.
+m.
+M. P.
+m. p.
+Mag.
+mag.
+Mag. Akad.
+mag. akad.
+Mag. Farm.
+mag. farm.
+Mag. Inž.
+mag. inž.
+Mag. Pharm.
+mag. pharm.
+Mag. Prof.
+mag. prof.
+Maj.
+maj.
+Mak.
+mak.
+Mar.
+mar.
+Mat.
+mat.
+Mat. Št.
+mat. št.
+Max.
+max.
+Mb.
+Mdr.
+mdr.
+Med.
+med.
+Medm.
+medm.
+Meh.
+meh.
+Mes.
+mes.
+Mest.
+mest.
+Mgr.
+mgr.
+Mil.
+mil.
+Min.
+min.
+Mio.
+mio.
+Ml.
+ml.
+Mld.
+mld.
+Mn.
+mn.
+Mr.
+Mr. Ph.
+mr. ph.
+Mrd.
+mrd.
+Mrs.
+Msgr.
+msgr.
+N.
+n.
+N. D.
+n. d.
+N. M.
+n. m.
+N. N.
+N. V.
+n. v.
+N. Št.
+n. št.
+Nad.
+nad.
+Nadstr.
+nadstr.
+Nam.
+nam.
+Nan.
+nan.
+Naniz.
+naniz.
+Nar.
+nar.
+Nar.zab.
+nar.zab.
+Nas.
+nas.
+Nav.
+nav.
+Navt.
+navt.
+Ned.
+ned.
+Nedol. Č.
+nedol. č.
+Nedov.
+nedov.
+Nedov. Gl.
+nedov. gl.
+Nem.
+nem.
+Nevtr.
+nevtr.
+Nikal.
+nikal.
+Niz.
+niz.
+Nižje pog.
+nižje pog.
+Nov.
+nov.
+Npr.
+npr.
+O. K.
+O. P.
+o. p.
+Obr.
+obr.
+Odd.
+odd.
+Odg.
+odg.
+Odg. Ur.
+odg. ur.
+Odst.
+odst.
+Odv.
+odv.
+Oec.
+oec.
+Ok.
+ok.
+Okr.
+okr.
+Okrajš.
+okrajš.
+Okt.
+okt.
+Olepš.
+olepš.
+Op.
+op.
+Op. A.
+op. a.
+Op. P.
+op. p.
+Op. Prev.
+op. prev.
+Op. Ur.
+op. ur.
+Org.
+org.
+Orig.
+orig.
+Orod.
+orod.
+Os.
+os.
+Otr.
+otr.
+Oz.
+oz.
+P.
+p.
+P. C.
+p. c.
+P. Chr. N.
+p. Chr. n.
+P. D.
+p. d.
+P. P.
+p. p.
+P. S.
+Parc. Št.
+parc. št.
+Ped.
+ped.
+Pesn.
+pesn.
+Pet.
+pet.
+Pl.
+pl.
+Plet.
+Po kr.
+po Kr.
+Podr. Vez.
+podr. vez.
+Pog.
+pog.
+Pogl.
+pogl.
+Pogoj.
+pogoj.
+Pok.
+pok.
+Pol.
+pol.
+Polit.
+polit.
+Polj.
+polj.
+Polk.
+polk.
+Pom.
+pom.
+Pon.
+pon.
+Por.
+por.
+Ppolk.
+ppolk.
+Pr. Kr.
+pr. Kr.
+Pr. N. Št.
+pr. n. št.
+Pragm.
+pragm.
+Prav.
+prav.
+Pravn.
+pravn.
+Prb.
+prb.
+Preb.
+preb.
+Pred.
+pred.
+Predl.
+predl.
+Preh.
+preh.
+Pren.
+pren.
+Prev.
+prev.
+Pribl.
+pribl.
+Prid.
+prid.
+Prim.
+prim.
+Prir.
+prir.
+Prisl.
+prisl.
+Prisl. Zv.
+prisl. zv.
+Prof.
+prof.
+Prof. Dr.
+prof. dr.
+Prp.
+prp.
+Psih.
+psih.
+Psiht.
+psiht.
+Publ.
+publ.
+R.
+r.
+R. I. P.
+R.k.
+r.k.
+Rač.
+rač.
+Red.
+red.
+Red. Prof.
+red. prof.
+Reg.
+reg.
+Reg. Št.
+reg. št.
+Rel.
+rel.
+Rim.
+rim.
+Rim.kat.
+rim.kat.
+Rkp.
+rkp.
+Rod.
+rod.
+Roj.
+roj.
+Rom.
+rom.
+Rus.
+rus.
+S.
+s.
+S. P.
+s. p.
+S. R. L.
+s. r. l.
+S. S.
+s. s.
+S.p.
+s.p.
+Sam.
+sam.
+Samozal.
+samozal.
+Sed.
+sed.
+Sek.
+sek.
+Sep.
+sep.
+Sept.
+sept.
+Sev.
+sev.
+Sign.
+sign.
+Simb.
+simb.
+Skr.
+skr.
+Skraj.
+skraj.
+Sl.
+sl.
+Slabš.
+slabš.
+Sln.
+sln.
+Slov.
+slov.
+Slovan.
+slovan.
+Slš.
+slš.
+Sob.
+sob.
+Soc.
+soc.
+Soc. Del.
+soc. del.
+Soc. Kult.
+soc. kult.
+Sod.
+sod.
+Sop.
+sop.
+Sp.
+sp.
+Spec.
+spec.
+Spl.
+spl.
+Sr.
+sr.
+Srb.
+srb.
+Sre.
+sre.
+Srspn.
+srspn.
+Srvn.
+srvn.
+Ssp.
+ssp.
+St.
+st.
+Stan.
+stan.
+Star.
+star.
+Stol.
+stol.
+Str.
+str.
+Stspn.
+stspn.
+Stvn.
+stvn.
+Sv.
+sv.
+Sv. V.
+sv. v.
+Svet.
+svet.
+Sz.
+sz.
+T. I.
+t. i.
+T. L.
+t. l.
+T. M.
+t. m.
+Tab.
+tab.
+Teh.
+teh.
+Tehn.
+tehn.
+Tel.
+tel.
+Tel. Št.
+tel. št.
+Temp.
+temp.
+Teol.
+teol.
+Tj.
+tj.
+Tor.
+tor.
+Tov.
+tov.
+Trg.
+trg.
+Tur.
+tur.
+Tč.
+tč.
+U.
+u.
+Ukr.
+ukr.
+Ul.
+ul.
+Um.
+um.
+Um. Zgod.
+um. zgod.
+Univ.
+univ.
+Up.
+up.
+Ur.
+ur.
+Ur. L.
+Ur. l.
+Ust.
+ust.
+V pok.
+v pok.
+V.
+V. D.
+v. d.
+Vel.
+vel.
+Velel.
+velel.
+Ver.
+ver.
+Vet.
+vet.
+Vez.
+vez.
+Viš. Znan. Sod.
+viš. znan. sod.
+Vn.
+vn.
+Voj.
+voj.
+Vpr(aš).
+vpr(aš).
+Vs.
+vs.
+Vsš.
+vsš.
+Vulg.
+vulg.
+Vzg.
+vzg.
+Vzh.
+vzh.
+Vznes.
+vznes.
+Vš.
+vš.
+Z.
+Z. B. O.
+z. b. o.
+Z. O. O.
+z. o. o.
+Zah.
+zah.
+Zal.
+zal.
+Zap. Št.
+zap. št.
+Zastar.
+zastar.
+Zdr.
+zdr.
+Zdrav.
+zdrav.
+Zf.
+zf.
+Zg.
+zg.
+Zgod.
+zgod.
+Znan. Sod.
+znan. sod.
+Znan. Svet.
+znan. svet.
+Zool.
+zool.
+Zoot.
+zoot.
+Zun.
+zun.
+Zv.
+zv.
+Č.-b.
+č.-b.
+Čas.
+čas.
+Čeb.
+čeb.
+Čet.
+čet.
+Češ.
+češ.
+Čl.
+čl.
+Člen.
+člen.
+Člov.
+člov.
+Šalj.
+šalj.
+Šol.
+šol.
+Šp.
+šp.
+Špan.
+špan.
+Šport.
+šport.
+Št.
+št.
+Štev.
+štev.
+Štud.
+štud.
+Ž.
+ž.
+Ž.r.
+ž.r.
+Žarg.
+žarg.
+Živ.
+živ.
+Živ. Tehn.
+živ. tehn.
